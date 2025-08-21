@@ -1,16 +1,23 @@
 {
   "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1": {
     "govToken": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-    "circulating": "2037927145.6394713",
-    "supply": "3224481952.894672",
-    "lockedAmount": "1186554807.2552006",
-    "veTokenSupply": "6880843764.205606"
+    "circulating": "2037932079.1228032",
+    "supply": "3224481952.878866",
+    "lockedAmount": "1186549873.756063",
+    "veTokenSupply": "6879394636.36234"
+  },
+  "4ZBdxqJAV4HwJubHYjJXYHzSjqVfsMTvPKyCmyceD5K1": {
+    "govToken": "4ZBdxqJAV4HwJubHYjJXYHzSjqVfsMTvPKyCmyceD5K1",
+    "circulating": "999286.4959",
+    "supply": "1000000",
+    "lockedAmount": "713.5041",
+    "veTokenSupply": "5459.514880856387"
   },
   "VAULTVXqi93aaq9FsyPKgdgp6Ge1H1HoSvNC4ZbqFDs": {
     "govToken": "VAULTVXqi93aaq9FsyPKgdgp6Ge1H1HoSvNC4ZbqFDs",
-    "circulating": "62824454.57474403",
+    "circulating": "62824416.15373999",
     "supply": "99999729.355602",
-    "lockedAmount": "37175274.780857965",
-    "veTokenSupply": "230140455.06456935"
+    "lockedAmount": "37175313.20186201",
+    "veTokenSupply": "230089420.6021825"
   }
 }
