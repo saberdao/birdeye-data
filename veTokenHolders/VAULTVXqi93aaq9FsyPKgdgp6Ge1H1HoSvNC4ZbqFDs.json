@@ -5085,6 +5085,20 @@
     "name": "Escrow",
     "data": {
       "locker": "FqEk173TNsqe2maPozsaZk4AvaqpV3FKynyA5s7V4aNq",
+      "owner": "GcGKKtuGpkWhzikw3vEaVCRLT9UUEHkPKU9jxG9PrP7u",
+      "bump": 253,
+      "tokens": "6e9BnLtChZ79VJXwuX8DevQJ4i5aNNTc2xJroEvuihbX",
+      "amount": "22992718",
+      "escrowStartedAt": "1755755375",
+      "escrowEndsAt": "1787291375",
+      "voteDelegate": "GcGKKtuGpkWhzikw3vEaVCRLT9UUEHkPKU9jxG9PrP7u"
+    },
+    "type": "account"
+  },
+  {
+    "name": "Escrow",
+    "data": {
+      "locker": "FqEk173TNsqe2maPozsaZk4AvaqpV3FKynyA5s7V4aNq",
       "owner": "Fq4xog2KfKLgsPkYdzt8kr3SkEkkm7v4qDjb3v6PSLv5",
       "bump": 254,
       "tokens": "E2KrU9dNpDLkTtZFSqbpXTBXgFwr761uXxzJ58d69DmX",
@@ -5792,6 +5806,20 @@
       "escrowStartedAt": "1753434095",
       "escrowEndsAt": "1784970095",
       "voteDelegate": "8276J6EbGTDpYadDKu8Hymv4vo7VXcESg66BnnGtpWd"
+    },
+    "type": "account"
+  },
+  {
+    "name": "Escrow",
+    "data": {
+      "locker": "FqEk173TNsqe2maPozsaZk4AvaqpV3FKynyA5s7V4aNq",
+      "owner": "hGAUr8XHsG3NFnsxsZi6mp9SwBb1aAtVNGSXCxLdnkt",
+      "bump": 254,
+      "tokens": "HQEq65yHTUZyP6AGDQwrsBF2mWFbVAQtE8xVEzT1X9Dv",
+      "amount": "614091613",
+      "escrowStartedAt": "1755746548",
+      "escrowEndsAt": "1787282548",
+      "voteDelegate": "hGAUr8XHsG3NFnsxsZi6mp9SwBb1aAtVNGSXCxLdnkt"
     },
     "type": "account"
   },
@@ -6793,6 +6821,20 @@
     "name": "Escrow",
     "data": {
       "locker": "FqEk173TNsqe2maPozsaZk4AvaqpV3FKynyA5s7V4aNq",
+      "owner": "2wUbiDqnRhXarwZVY1bqHLwg8NKAL1n3V9aVVbYzgT5X",
+      "bump": 255,
+      "tokens": "6i4Sf49DnzCQ9NHxspCzhcvQE5271ztPhZB2gpoYhAHG",
+      "amount": "872279188",
+      "escrowStartedAt": "1755756550",
+      "escrowEndsAt": "1787292550",
+      "voteDelegate": "2wUbiDqnRhXarwZVY1bqHLwg8NKAL1n3V9aVVbYzgT5X"
+    },
+    "type": "account"
+  },
+  {
+    "name": "Escrow",
+    "data": {
+      "locker": "FqEk173TNsqe2maPozsaZk4AvaqpV3FKynyA5s7V4aNq",
       "owner": "F5dPEGrgZShSqwGdAMCPkQhrnebNsyoF7ATMPjRDsYKH",
       "bump": 255,
       "tokens": "HxW6cNfprws5sGXjG36jW6vU4JQczXn3Ba8AR7VRaeU1",
@@ -7766,6 +7808,20 @@
       "escrowStartedAt": "1753284661",
       "escrowEndsAt": "1784820661",
       "voteDelegate": "Eaxq6wMgcZh3g2jcpfFAnYA9cbHyVb2T1tSoDeow4Rtr"
+    },
+    "type": "account"
+  },
+  {
+    "name": "Escrow",
+    "data": {
+      "locker": "FqEk173TNsqe2maPozsaZk4AvaqpV3FKynyA5s7V4aNq",
+      "owner": "XPabBWJqx3J8ybfCzzeWAuKtEj7eYsV8RtgifzTFFAp",
+      "bump": 255,
+      "tokens": "7qh3cZJK7WUq2h9QMBVB1jjbLy36B8FmXCAmt1iVHu3T",
+      "amount": "885079067",
+      "escrowStartedAt": "1755757158",
+      "escrowEndsAt": "1787293158",
+      "voteDelegate": "XPabBWJqx3J8ybfCzzeWAuKtEj7eYsV8RtgifzTFFAp"
     },
     "type": "account"
   },
@@ -12295,6 +12351,20 @@
     "name": "Escrow",
     "data": {
       "locker": "FqEk173TNsqe2maPozsaZk4AvaqpV3FKynyA5s7V4aNq",
+      "owner": "D9TJXW18wBz6HLovZ3YUGojfSRfotv7KCvyyBAEkwiLL",
+      "bump": 254,
+      "tokens": "A1KFwQ65e4HxgFaoBG25s1AuGVbQPHnh21QHMuf7j8oZ",
+      "amount": "32581333",
+      "escrowStartedAt": "1755742485",
+      "escrowEndsAt": "1787278485",
+      "voteDelegate": "D9TJXW18wBz6HLovZ3YUGojfSRfotv7KCvyyBAEkwiLL"
+    },
+    "type": "account"
+  },
+  {
+    "name": "Escrow",
+    "data": {
+      "locker": "FqEk173TNsqe2maPozsaZk4AvaqpV3FKynyA5s7V4aNq",
       "owner": "CyDTofKP2wEccfC94GfMvhL9zx5v9AefkgF5z5B2sDMv",
       "bump": 254,
       "tokens": "HL3GfRwxPabZpvnqUGQzVYvb2T1ENLDV6wiRBwQH9eX1",
@@ -12694,6 +12764,34 @@
       "escrowStartedAt": "1753284393",
       "escrowEndsAt": "1784820393",
       "voteDelegate": "AcvdSyC6YkytssQ63htE6UEEz6d7WqNyCiztGaeDS3KA"
+    },
+    "type": "account"
+  },
+  {
+    "name": "Escrow",
+    "data": {
+      "locker": "FqEk173TNsqe2maPozsaZk4AvaqpV3FKynyA5s7V4aNq",
+      "owner": "GZF2wAgYSgLTDhr1xB5RPveKRAYcpDT2cR75qgd8acHG",
+      "bump": 253,
+      "tokens": "2tcuUNTboroibL6r2a4NuzEHBSzrfV178j5B3J44x2Vk",
+      "amount": "2617518299",
+      "escrowStartedAt": "1755757490",
+      "escrowEndsAt": "1787293490",
+      "voteDelegate": "GZF2wAgYSgLTDhr1xB5RPveKRAYcpDT2cR75qgd8acHG"
+    },
+    "type": "account"
+  },
+  {
+    "name": "Escrow",
+    "data": {
+      "locker": "FqEk173TNsqe2maPozsaZk4AvaqpV3FKynyA5s7V4aNq",
+      "owner": "CvaGTkUGfkViVGMZ3EoLNJiVwdBUrrnRct8GGna8Fqnn",
+      "bump": 255,
+      "tokens": "6wbTRtzvRWzj93Qze2zKXaRzW5X8ZKiVu9mVBVB1xPzy",
+      "amount": "768890",
+      "escrowStartedAt": "1755746048",
+      "escrowEndsAt": "1787282048",
+      "voteDelegate": "CvaGTkUGfkViVGMZ3EoLNJiVwdBUrrnRct8GGna8Fqnn"
     },
     "type": "account"
   },
@@ -14395,6 +14493,20 @@
     "name": "Escrow",
     "data": {
       "locker": "FqEk173TNsqe2maPozsaZk4AvaqpV3FKynyA5s7V4aNq",
+      "owner": "E1348BKvb95H5ewVP5th6hfMA6TzJcMaMTWVkyJbWYMW",
+      "bump": 251,
+      "tokens": "DxSBB4JhMDCVfpH2TrKsU5vcLY1MwGUnzESga7QnAPL9",
+      "amount": "270973949",
+      "escrowStartedAt": "1755742547",
+      "escrowEndsAt": "1787278547",
+      "voteDelegate": "E1348BKvb95H5ewVP5th6hfMA6TzJcMaMTWVkyJbWYMW"
+    },
+    "type": "account"
+  },
+  {
+    "name": "Escrow",
+    "data": {
+      "locker": "FqEk173TNsqe2maPozsaZk4AvaqpV3FKynyA5s7V4aNq",
       "owner": "5kH8xMEV9tFY8xUS13NWjeB6rVb7a5jU6sannHj5EQtg",
       "bump": 255,
       "tokens": "DpnQmevrZa2FbFMusWJPu4Rug1gN7EEfyFiZ1CwyH4me",
@@ -15487,6 +15599,20 @@
     "name": "Escrow",
     "data": {
       "locker": "FqEk173TNsqe2maPozsaZk4AvaqpV3FKynyA5s7V4aNq",
+      "owner": "J1oji6PZrJtniQbu3aRBYvZorJE4wZ8mGviUBrYPrhRG",
+      "bump": 253,
+      "tokens": "99BQuSr7sA5y79jx4gz2dba8GH6Gp9U8nMGWP52RymXF",
+      "amount": "481055215",
+      "escrowStartedAt": "1755756384",
+      "escrowEndsAt": "1787292384",
+      "voteDelegate": "J1oji6PZrJtniQbu3aRBYvZorJE4wZ8mGviUBrYPrhRG"
+    },
+    "type": "account"
+  },
+  {
+    "name": "Escrow",
+    "data": {
+      "locker": "FqEk173TNsqe2maPozsaZk4AvaqpV3FKynyA5s7V4aNq",
       "owner": "5t714a1hneDbUMorneoY1ubNam44hogVzUKCL6Cr1fpU",
       "bump": 254,
       "tokens": "A49X6KmzDhRjhDqsF7PpaJjkzfHcKU8PN3i1fKdLPKjB",
@@ -16418,6 +16544,20 @@
       "escrowStartedAt": "1753284203",
       "escrowEndsAt": "1784820203",
       "voteDelegate": "71CGp9qLonhduLWqpJYtLDT4FZURNKnnZozctA9SFJaB"
+    },
+    "type": "account"
+  },
+  {
+    "name": "Escrow",
+    "data": {
+      "locker": "FqEk173TNsqe2maPozsaZk4AvaqpV3FKynyA5s7V4aNq",
+      "owner": "6DLujc3NZkp984aVnkFDkDm7nJA5mUW9oJcRLW3MqC21",
+      "bump": 255,
+      "tokens": "8SaxsQo8p1vnFKQ9mQawFQ6RgX8VKMPMWoDKyD7asELR",
+      "amount": "165877319",
+      "escrowStartedAt": "1755754106",
+      "escrowEndsAt": "1787290106",
+      "voteDelegate": "6DLujc3NZkp984aVnkFDkDm7nJA5mUW9oJcRLW3MqC21"
     },
     "type": "account"
   },
