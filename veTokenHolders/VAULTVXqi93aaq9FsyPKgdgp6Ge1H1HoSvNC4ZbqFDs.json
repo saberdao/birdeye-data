@@ -829,6 +829,20 @@
     "name": "Escrow",
     "data": {
       "locker": "FqEk173TNsqe2maPozsaZk4AvaqpV3FKynyA5s7V4aNq",
+      "owner": "3xCit8EMQKtxrWHs5F1Lzq8s29YAK4t69J6CPg2LZcvT",
+      "bump": 255,
+      "tokens": "53L7N5ot2BR1XGZGYHL1ccxv66X3HC8yNEKSsh5RHgL8",
+      "amount": "1018724917",
+      "escrowStartedAt": "1756134211",
+      "escrowEndsAt": "1787670211",
+      "voteDelegate": "3xCit8EMQKtxrWHs5F1Lzq8s29YAK4t69J6CPg2LZcvT"
+    },
+    "type": "account"
+  },
+  {
+    "name": "Escrow",
+    "data": {
+      "locker": "FqEk173TNsqe2maPozsaZk4AvaqpV3FKynyA5s7V4aNq",
       "owner": "GxcRoM1hMXZB8uZ2tXiNA8KwEsEUWcN7WevW31DTvNyM",
       "bump": 254,
       "tokens": "B6xCvrdY2iUv1Pe7CvoLCXJ5tnWUa9jR8Eip43fBJfkz",
@@ -2404,6 +2418,20 @@
       "escrowStartedAt": "1753308576",
       "escrowEndsAt": "1910988576",
       "voteDelegate": "Ds7NjfNZh877edTwCnPzThhSq3va3xbdZZNV2xzzSWVH"
+    },
+    "type": "account"
+  },
+  {
+    "name": "Escrow",
+    "data": {
+      "locker": "FqEk173TNsqe2maPozsaZk4AvaqpV3FKynyA5s7V4aNq",
+      "owner": "5rL25Lu3CNgJtcSzW9vYNeMAgpHBVGZhXNsSW98YygNy",
+      "bump": 254,
+      "tokens": "H7z66fde9b6StEScQpPQDHpdxNt8M7rPUrpy1gAqLPGv",
+      "amount": "31554421",
+      "escrowStartedAt": "1756136623",
+      "escrowEndsAt": "1787672623",
+      "voteDelegate": "5rL25Lu3CNgJtcSzW9vYNeMAgpHBVGZhXNsSW98YygNy"
     },
     "type": "account"
   },
@@ -13884,6 +13912,20 @@
       "escrowStartedAt": "1753556127",
       "escrowEndsAt": "1785092127",
       "voteDelegate": "5t714a1hneDbUMorneoY1ubNam44hogVzUKCL6Cr1fpU"
+    },
+    "type": "account"
+  },
+  {
+    "name": "Escrow",
+    "data": {
+      "locker": "FqEk173TNsqe2maPozsaZk4AvaqpV3FKynyA5s7V4aNq",
+      "owner": "HQBZZBtYHqDKqBtNKFDDXiZ5pTLNpX2ztRqr8SwECotc",
+      "bump": 251,
+      "tokens": "4NzWgnc3feFGcD37RgJaVBXhs78m3Ws7N9JxTWNfBeKW",
+      "amount": "24212537633",
+      "escrowStartedAt": "1756134154",
+      "escrowEndsAt": "1787670154",
+      "voteDelegate": "HQBZZBtYHqDKqBtNKFDDXiZ5pTLNpX2ztRqr8SwECotc"
     },
     "type": "account"
   },
