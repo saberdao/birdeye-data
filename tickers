@@ -67,7 +67,7 @@
     "base_volume": 20.764756583,
     "target_volume": 20.656943002,
     "pool_id": "BSC8REUo9LpiiWUuqMuLXs2D2yJsJfGd4HdiF3wCLxk5",
-    "liquidity_in_usd": 6282.463220433003
+    "liquidity_in_usd": 6284.653396730191
   },
   {
     "ticker_id": "E77cpQ4VncGmcAXX16LHFFzNBEBb2U7Ar7LBmZNfCgwL/AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV",
@@ -133,11 +133,11 @@
     "ticker_id": "DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
     "base_currency": "DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9",
     "target_currency": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-    "last_price": 0.9989082108468058,
-    "base_volume": 0,
-    "target_volume": 0,
+    "last_price": 0.9988535477776539,
+    "base_volume": 459.537558907,
+    "target_volume": 458.993487844,
     "pool_id": "WiiQFxXqp8P9Fs1rt9SVcDyA3KUdJmUsog6wnVQAwba",
-    "liquidity_in_usd": 24630.24655459221
+    "liquidity_in_usd": 24653.90564173062
   },
   {
     "ticker_id": "Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn/AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV",
@@ -201,31 +201,31 @@
     "ticker_id": "eqKJTf1Do4MDPyKisMYqVaUFpkEFAs3riGF3ceDH2Ca/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
     "base_currency": "eqKJTf1Do4MDPyKisMYqVaUFpkEFAs3riGF3ceDH2Ca",
     "target_currency": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "last_price": 1.0000023682390036,
-    "base_volume": 0,
-    "target_volume": 0,
+    "last_price": 0.999969421987675,
+    "base_volume": 527.3969870000001,
+    "target_volume": 527.2162639999999,
     "pool_id": "AUSejoEUCh2DBs9mof6BNC8Pubs22w4cJa1ccV9h44R",
-    "liquidity_in_usd": 28968.63419266929
+    "liquidity_in_usd": 28966.877402983133
   },
   {
     "ticker_id": "DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
     "base_currency": "DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ",
     "target_currency": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
     "last_price": 0.999421531025961,
-    "base_volume": 0.584301,
-    "target_volume": 0.583963,
+    "base_volume": 0,
+    "target_volume": 0,
     "pool_id": "ALBpShJ9NLpE739pcHDF2LNVk5J4VYPvvKuV6jMPitZi",
-    "liquidity_in_usd": 100693.73956185125
+    "liquidity_in_usd": 100693.6005277391
   },
   {
     "ticker_id": "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond/So11111111111111111111111111111111111111112",
     "base_currency": "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
     "target_currency": "So11111111111111111111111111111111111111112",
-    "last_price": 1.1940880525349526,
-    "base_volume": 0.006222872,
-    "target_volume": 0.007430746,
+    "last_price": 1.1940827060455135,
+    "base_volume": 0.007146239,
+    "target_volume": 0.008534096,
     "pool_id": "AURHmCnNwiW4uA2Qj1XvEh4iKgRUZYXtiY7FKAapUV5Y",
-    "liquidity_in_usd": 527503.5983730796
+    "liquidity_in_usd": 524953.3454145689
   },
   {
     "ticker_id": "A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
@@ -255,21 +255,21 @@
     "ticker_id": "So11111111111111111111111111111111111111112/bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
     "base_currency": "So11111111111111111111111111111111111111112",
     "target_currency": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
-    "last_price": 0.8039101024149703,
-    "base_volume": 1.743955132,
-    "target_volume": 1.401321922,
+    "last_price": 0.8036747685185186,
+    "base_volume": 1.1861157789999999,
+    "target_volume": 0.953196033,
     "pool_id": "STK75uPSyBnEhGTTzb1nwmP3n427XoXmfRhXxxhyady",
-    "liquidity_in_usd": 98791.70414845823
+    "liquidity_in_usd": 98429.8865980373
   },
   {
     "ticker_id": "BonK1YhkXEGLZzwtcvRTip3gAL9nCeQD7ppZBLXhtTs/jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
     "base_currency": "BonK1YhkXEGLZzwtcvRTip3gAL9nCeQD7ppZBLXhtTs",
     "target_currency": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
     "last_price": 0.9965446868589294,
-    "base_volume": 0.015318979,
-    "target_volume": 0.015263623,
+    "base_volume": 0.002260866,
+    "target_volume": 0.002253054,
     "pool_id": "FLMk9DsznFvjQPQ1avBVbfX1VyWknUpxFJ7T15eoFef2",
-    "liquidity_in_usd": 281.70336427035113
+    "liquidity_in_usd": 278.74498775646765
   },
   {
     "ticker_id": "bookHxJxgu5PhRLof8pNYnWrvxcoG7jfamn61EwxyiP/vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
@@ -321,11 +321,11 @@
     "ticker_id": "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
     "base_currency": "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL",
     "target_currency": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "last_price": 0.8988533627824461,
-    "base_volume": 24.510917,
-    "target_volume": 21.875446,
+    "last_price": 0.8896996540928613,
+    "base_volume": 21.930422,
+    "target_volume": 19.628891,
     "pool_id": "C98Sspw7XqnMsgxea3SLQVdbMDL8pKUc3RE82UvX9eq2",
-    "liquidity_in_usd": 330.0942691390852
+    "liquidity_in_usd": 324.94941949449856
   },
   {
     "ticker_id": "CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
@@ -349,11 +349,11 @@
     "ticker_id": "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE/J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
     "base_currency": "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE",
     "target_currency": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
-    "last_price": 0.995007136501409,
-    "base_volume": 0.002046521,
-    "target_volume": 0.002036303,
+    "last_price": 0.9958136091951526,
+    "base_volume": 0.024948193,
+    "target_volume": 0.024835723,
     "pool_id": "FMFdmexvUSwby1Y2xiVr76mKwDQ3M3aTZ5kFCrsBc819",
-    "liquidity_in_usd": 1798.0808385864736
+    "liquidity_in_usd": 1902.7253586006905
   },
   {
     "ticker_id": "FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
@@ -367,11 +367,11 @@
     "ticker_id": "2VhjJ9WxaGC3EZFwJG9BDUs9KxKCAjQY4vgd1qxgYWVg/HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
     "base_currency": "2VhjJ9WxaGC3EZFwJG9BDUs9KxKCAjQY4vgd1qxgYWVg",
     "target_currency": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
-    "last_price": 1.0116343281993159,
-    "base_volume": 80.328427,
-    "target_volume": 81.29162600000001,
+    "last_price": 1.011585659654375,
+    "base_volume": 59.076697,
+    "target_volume": 59.766537,
     "pool_id": "BJo5DwH4YWExpZ1Zu1FdZaM6jcqHwXSR5DkHBEwb3AbM",
-    "liquidity_in_usd": 13596.636861421464
+    "liquidity_in_usd": 13599.6023405077
   },
   {
     "ticker_id": "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM/So11111111111111111111111111111111111111112",
@@ -427,11 +427,11 @@
     "ticker_id": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp/UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7",
     "base_currency": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
     "target_currency": "UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7",
-    "last_price": 67.86691200581187,
-    "base_volume": 0.02433638,
-    "target_volume": 1.65163496,
+    "last_price": 68.51691016151315,
+    "base_volume": 4.07388362,
+    "target_volume": 279.129918,
     "pool_id": "SAMyS8Jr2HJrkFwYVKbpUwsNStnQmvz3f8Tup8bWUWF",
-    "liquidity_in_usd": 8266.002995535142
+    "liquidity_in_usd": 8217.602678688412
   },
   {
     "ticker_id": "GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi/FTT9rBBrYwcHam4qLvkzzzhrsihYMbZ3k6wJbdoahxAt",
@@ -477,11 +477,11 @@
     "ticker_id": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn/So11111111111111111111111111111111111111112",
     "base_currency": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
     "target_currency": "So11111111111111111111111111111111111111112",
-    "last_price": 1.2984532768596604,
-    "base_volume": 0.997178895,
-    "target_volume": 1.290377074,
+    "last_price": 1.2971328834516644,
+    "base_volume": 0.9252660030000001,
+    "target_volume": 1.19701241,
     "pool_id": "JSoLLrxK5bYdHwTEWYaGgmeycBCNXKDiBCTw5hXGBg7",
-    "liquidity_in_usd": 35120.30042258917
+    "liquidity_in_usd": 34967.931332874316
   },
   {
     "ticker_id": "LnTRntk2kTfWEY6cVB8K9649pgJbt6dJLS1Ns1GZCWg/jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
@@ -527,61 +527,61 @@
     "ticker_id": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj/UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW",
     "base_currency": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
     "target_currency": "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW",
-    "last_price": 67.63889760174595,
-    "base_volume": 0.27342591299999996,
-    "target_volume": 18.505149864,
+    "last_price": 68.474955776482,
+    "base_volume": 0.41554736999999997,
+    "target_volume": 28.197665864,
     "pool_id": "MiMuMS9C4vBqcrYeeQPph1E7oAW9aNKvW9k6Zw9XffM",
-    "liquidity_in_usd": 145.38373795581452
+    "liquidity_in_usd": 145.3912583507997
   },
   {
     "ticker_id": "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh/So11111111111111111111111111111111111111112",
     "base_currency": "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
     "target_currency": "So11111111111111111111111111111111111111112",
-    "last_price": 1.172570240725623,
-    "base_volume": 5.874537045,
-    "target_volume": 6.893969131,
+    "last_price": 1.173581862449079,
+    "base_volume": 4.280519485,
+    "target_volume": 5.0151467069999995,
     "pool_id": "daob129AwBGn9Y5r91uLoWZeYiGzbPmksauMhFZKTze",
-    "liquidity_in_usd": 66035.07285975693
+    "liquidity_in_usd": 65841.68081890862
   },
   {
     "ticker_id": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
     "base_currency": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
     "target_currency": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
-    "last_price": 1.0191747665803934,
-    "base_volume": 2.146099536,
-    "target_volume": 2.194793521,
+    "last_price": 1.0209477194099323,
+    "base_volume": 2.110515332,
+    "target_volume": 2.158548963,
     "pool_id": "SoNcU2iwHMw6dGzsYNQkYFkUjwN1UdAjrWVRnStrZu2",
-    "liquidity_in_usd": 3945.180157150133
+    "liquidity_in_usd": 3875.3239407322317
   },
   {
     "ticker_id": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/So11111111111111111111111111111111111111112",
     "base_currency": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
     "target_currency": "So11111111111111111111111111111111111111112",
-    "last_price": 1.3233564938535542,
-    "base_volume": 132.368809893,
-    "target_volume": 175.103607054,
+    "last_price": 1.3230088532281525,
+    "base_volume": 90.175453486,
+    "target_volume": 119.304042251,
     "pool_id": "Lee1XZJfJ9Hm2K1qTyeCz1LXNc1YBZaKZszvNY4KCDw",
-    "liquidity_in_usd": 15104589.039700111
+    "liquidity_in_usd": 15078516.176219601
   },
   {
     "ticker_id": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
     "base_currency": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
     "target_currency": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "last_price": 0.003536825042984112,
-    "base_volume": 590.182401,
-    "target_volume": 2.096128,
+    "last_price": 0.0034766905114084583,
+    "base_volume": 596.820909,
+    "target_volume": 2.113487,
     "pool_id": "Cob4usZcpHEY7Qt4ZCwj6WVg9S44zvzYV2v9qYF65dTf",
-    "liquidity_in_usd": 206.82042272874003
+    "liquidity_in_usd": 205.51924599308438
   },
   {
     "ticker_id": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
     "base_currency": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
     "target_currency": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
-    "last_price": 0.0035259656456590473,
-    "base_volume": 0,
-    "target_volume": 0,
+    "last_price": 0.0035298576913968633,
+    "base_volume": 4.514063,
+    "target_volume": 0.015934,
     "pool_id": "SUiuyGR7SFq3xeRVJonq84fjjeFwRSsFekcevJ53tzy",
-    "liquidity_in_usd": 3.691612120001326
+    "liquidity_in_usd": 3.655572587532297
   },
   {
     "ticker_id": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
@@ -597,11 +597,11 @@
     "ticker_id": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
     "base_currency": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
     "target_currency": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
-    "last_price": 0.23868541066927995,
-    "base_volume": 590.182401,
-    "target_volume": 140.640444,
+    "last_price": 0.23978341593859545,
+    "base_volume": 592.306846,
+    "target_volume": 141.327248,
     "pool_id": "Sid7E679i9ABqptiAVhkmQ27YHN8vaYT4fppPwmxFsJ",
-    "liquidity_in_usd": 606.6395040625358
+    "liquidity_in_usd": 599.2791211392863
   },
   {
     "ticker_id": "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
@@ -631,11 +631,11 @@
     "ticker_id": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v/picobAEvs6w7QEknPce34wAE4gknZA9v5tTonnmHYdX",
     "base_currency": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
     "target_currency": "picobAEvs6w7QEknPce34wAE4gknZA9v5tTonnmHYdX",
-    "last_price": 0.9893248597548393,
-    "base_volume": 1.7232308209999998,
-    "target_volume": 1.7067959460000002,
+    "last_price": 0.9891213957784796,
+    "base_volume": 2.533910364,
+    "target_volume": 2.508802052,
     "pool_id": "4kVS9bcBy7uorCy5tBCSzJkRoHuqJfsDJ2BKCaaqif5B",
-    "liquidity_in_usd": 9577.896875665707
+    "liquidity_in_usd": 9546.066229690136
   },
   {
     "ticker_id": "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ/FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58",
@@ -649,11 +649,11 @@
     "ticker_id": "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3/So11111111111111111111111111111111111111112",
     "base_currency": "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
     "target_currency": "So11111111111111111111111111111111111111112",
-    "last_price": 1.2093181095177077,
-    "base_volume": 0.54457518,
-    "target_volume": 0.658280219,
+    "last_price": 1.2083441476453027,
+    "base_volume": 0.642986672,
+    "target_volume": 0.777169633,
     "pool_id": "heyk4SZTeCUV6a65WiVA5bzic3KcxgVf1qxobfeV4tQ",
-    "liquidity_in_usd": 1288254.7045993
+    "liquidity_in_usd": 1285027.2886295423
   },
   {
     "ticker_id": "9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX/BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
@@ -678,10 +678,10 @@
     "base_currency": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
     "target_currency": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
     "last_price": 1.0470457469895715,
-    "base_volume": 0.098716203,
-    "target_volume": 0.10370157599999999,
+    "base_volume": 0.09471808599999999,
+    "target_volume": 0.09951358499999999,
     "pool_id": "SoN9GaFpSXfpyR5dth3x7PHPVhvJMpQqqDJfCSmPv1t",
-    "liquidity_in_usd": 1044.7981085439685
+    "liquidity_in_usd": 1024.167294554211
   },
   {
     "ticker_id": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
@@ -691,17 +691,17 @@
     "base_volume": 0.005055084,
     "target_volume": 0.005187189,
     "pool_id": "Dg3mAgpwDfVNnbGWcsxL8sUcSkEbjSJQhKAWNigG44Ju",
-    "liquidity_in_usd": 105.78909679097261
+    "liquidity_in_usd": 105.55956743737349
   },
   {
     "ticker_id": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm/So11111111111111111111111111111111111111112",
     "base_currency": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
     "target_currency": "So11111111111111111111111111111111111111112",
-    "last_price": 1.3591004626913334,
-    "base_volume": 0.5727618990000001,
-    "target_volume": 0.7780918529999999,
+    "last_price": 1.3590483056957463,
+    "base_volume": 0.248307943,
+    "target_volume": 0.337355682,
     "pool_id": "FrnkTEL6yZ5Aycq2TrEgu29dCrwKG4LPUZydfiwqspkc",
-    "liquidity_in_usd": 403427.8655324222
+    "liquidity_in_usd": 402794.57115435594
   },
   {
     "ticker_id": "5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV/3JFC4cB56Er45nWVe29Bhnn5GnwQzSmHVf6eUq9ac91h",
@@ -733,21 +733,21 @@
     "ticker_id": "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
     "base_currency": "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
     "target_currency": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
-    "last_price": 0.2182805313352967,
-    "base_volume": 0,
-    "target_volume": 0,
+    "last_price": 0.21724212724428368,
+    "base_volume": 31.343121,
+    "target_volume": 6.801823,
     "pool_id": "KysFMBBoavfov2tLpvefWW6tPFt6rAeZWDJVy1mMQae",
-    "liquidity_in_usd": 21.54404283634265
+    "liquidity_in_usd": 20.971214486188366
   },
   {
     "ticker_id": "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
     "base_currency": "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
     "target_currency": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
-    "last_price": 0.0031791756145404183,
-    "base_volume": 0,
-    "target_volume": 0,
+    "last_price": 0.0032076158567002325,
+    "base_volume": 31.343121,
+    "target_volume": 0.10067299999999998,
     "pool_id": "RoBgmK8CvjdHvPrqdDyVw54VwjZv2TqJ493xnqJAQHx",
-    "liquidity_in_usd": 13.568534263624912
+    "liquidity_in_usd": 13.526237763063932
   },
   {
     "ticker_id": "SouL4UuxKaFutpyZGb2weXUPEQCCsmEHSubMJEs7ttH/vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
@@ -779,11 +779,11 @@
     "ticker_id": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj/So11111111111111111111111111111111111111112",
     "base_currency": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
     "target_currency": "So11111111111111111111111111111111111111112",
-    "last_price": 1.211391507097012,
-    "base_volume": 32.041964617,
-    "target_volume": 38.814396459,
+    "last_price": 1.2114879569870922,
+    "base_volume": 27.440938105,
+    "target_volume": 33.240152895,
     "pool_id": "Lid8SLUxQ9RmF7XMqUA8c24RitTwzja8VSKngJxRcUa",
-    "liquidity_in_usd": 2149650.8182746493
+    "liquidity_in_usd": 2144400.4187534368
   },
   {
     "ticker_id": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
@@ -813,17 +813,17 @@
     "base_volume": 0,
     "target_volume": 0,
     "pool_id": "FwboHN22hGDqjujNXniwnpSVAMcMQDGkFpc4A8EKgieX",
-    "liquidity_in_usd": 0.3160696137850154
+    "liquidity_in_usd": 0.31553975928457867
   },
   {
     "ticker_id": "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
     "base_currency": "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
     "target_currency": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "last_price": 0.9721002051766563,
-    "base_volume": 1808.668779,
-    "target_volume": 1757.8850039999998,
+    "last_price": 0.9720703474670694,
+    "base_volume": 1360.5746900000001,
+    "target_volume": 1322.428864,
     "pool_id": "B2izdXFYb2sNwbWWHmh75T4aQFtfXsUxem9u2p61HGzf",
-    "liquidity_in_usd": 38816.89532750559
+    "liquidity_in_usd": 38810.2356935801
   },
   {
     "ticker_id": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/Ez2zVjw85tZan1ycnJ5PywNNxR6Gm4jbXQtZKyQNu3Lv",
@@ -833,27 +833,27 @@
     "base_volume": 0,
     "target_volume": 0,
     "pool_id": "FLUY35bdRBEtuiBaRNgxvhnZsdnCjSfTjZtKbCpgnJuF",
-    "liquidity_in_usd": 0.12850441551288
+    "liquidity_in_usd": 0.3531012828636084
   },
   {
     "ticker_id": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
     "base_currency": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
     "target_currency": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "last_price": 0.9999224947656772,
-    "base_volume": 11200.163308000001,
-    "target_volume": 11197.732226,
+    "last_price": 0.9997804751530607,
+    "base_volume": 7054.445403,
+    "target_volume": 7053.718449,
     "pool_id": "9m7ec7MxFqWgVWBSapWjGa2eGD29xF7VxW6qxp4qUQ2",
-    "liquidity_in_usd": 200368.95227099373
+    "liquidity_in_usd": 200368.33745441516
   },
   {
     "ticker_id": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
     "base_currency": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
     "target_currency": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-    "last_price": 0.9993222264859936,
-    "base_volume": 293087.161271,
-    "target_volume": 292907.078936,
+    "last_price": 0.9994623655913979,
+    "base_volume": 323583.425391,
+    "target_volume": 323386.886074,
     "pool_id": "YAkoNb6HKmSxQN9L8hiBE5tPJRsniSSMzND1boHmZxe",
-    "liquidity_in_usd": 2158042.0720055057
+    "liquidity_in_usd": 2158012.4516190877
   },
   {
     "ticker_id": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX/A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
@@ -867,11 +867,11 @@
     "ticker_id": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
     "base_currency": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
     "target_currency": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "last_price": 0.9966670329267846,
-    "base_volume": 496.976913,
-    "target_volume": 494.949822,
+    "last_price": 0.9958732221815673,
+    "base_volume": 60.295669999999994,
+    "target_volume": 60.047295000000005,
     "pool_id": "MARpDPs5A7XiyCWPNH8GsMWPLxmwNn9SBmKvPa9LzgA",
-    "liquidity_in_usd": 270821.1495761108
+    "liquidity_in_usd": 270871.53440549725
   },
   {
     "ticker_id": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
@@ -903,21 +903,21 @@
     "ticker_id": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
     "base_currency": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
     "target_currency": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-    "last_price": 0.9991187729254244,
-    "base_volume": 26329.067955000002,
-    "target_volume": 26306.000915999997,
+    "last_price": 0.9993589992834567,
+    "base_volume": 22828.723702,
+    "target_volume": 22812.809585,
     "pool_id": "Dp1JEcS3SCFraZr4osXytfgnX31tDMnr7QKrsgS9Ysd4",
-    "liquidity_in_usd": 200540.9030605203
+    "liquidity_in_usd": 200540.890613496
   },
   {
     "ticker_id": "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
     "base_currency": "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6",
     "target_currency": "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-    "last_price": 0.9778252993153664,
-    "base_volume": 1.774344083,
-    "target_volume": 1.734997,
+    "last_price": 0.9770523884350708,
+    "base_volume": 2.087365592,
+    "target_volume": 2.040835413,
     "pool_id": "HEDSDjj84KS7LKhZY7ejkCACTdPen62rKhCby1wXtgxc",
-    "liquidity_in_usd": 15441.026700455184
+    "liquidity_in_usd": 15444.499239600696
   },
   {
     "ticker_id": "PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
@@ -947,11 +947,11 @@
     "ticker_id": "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
     "base_currency": "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
     "target_currency": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "last_price": 1.0013686731261129,
-    "base_volume": 4796.3880930000005,
-    "target_volume": 4803.647736,
+    "last_price": 1.0016131521661473,
+    "base_volume": 6017.4568150000005,
+    "target_volume": 6026.592033,
     "pool_id": "KEN5P7p3asnb23Sw6yAmJRGvijfAzso3RqfyLAQhznt",
-    "liquidity_in_usd": 136594.45395307563
+    "liquidity_in_usd": 136604.67589491906
   },
   {
     "ticker_id": "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
@@ -965,11 +965,11 @@
     "ticker_id": "So11111111111111111111111111111111111111112/vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
     "base_currency": "So11111111111111111111111111111111111111112",
     "target_currency": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
-    "last_price": 0.9022954766972229,
-    "base_volume": 4.919516735,
-    "target_volume": 4.435043217,
+    "last_price": 0.9021828169421289,
+    "base_volume": 7.629380687,
+    "target_volume": 6.877941483,
     "pool_id": "C2ypsDADXcCRz8HbV2zX1AXPSja7a1P3xZtRC91xGhJh",
-    "liquidity_in_usd": 215330.98970221684
+    "liquidity_in_usd": 214324.3225101141
   },
   {
     "ticker_id": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v/vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
@@ -983,19 +983,19 @@
     "ticker_id": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij/3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
     "base_currency": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
     "target_currency": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
-    "last_price": 0.9997991564571199,
-    "base_volume": 23.84827357999999,
-    "target_volume": 23.84297455,
+    "last_price": 0.9995564426702152,
+    "base_volume": 21.40675801,
+    "target_volume": 21.39997523,
     "pool_id": "DVJ9mtgcaxuoYg1EJb6DmyR3sYbBShUWvvYfP8GKyutS",
-    "liquidity_in_usd": 1158036.7404890088
+    "liquidity_in_usd": 1154002.3407600773
   },
   {
     "ticker_id": "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
     "base_currency": "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2",
     "target_currency": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
     "last_price": 1.0026983055438778,
-    "base_volume": 372.93252734,
-    "target_volume": 374.14632641,
+    "base_volume": 365.99539143,
+    "target_volume": 367.18752345999997,
     "pool_id": "BUSDgu5JdqP1rndBvXvanbEufS94FNh1w5FJcAj6vawb",
     "liquidity_in_usd": 59932.70732877884
   },
@@ -1024,8 +1024,8 @@
     "base_currency": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
     "target_currency": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
     "last_price": 1.0003920372392057,
-    "base_volume": 2663.7926312400004,
-    "target_volume": 2664.72197879,
+    "base_volume": 2656.8304167300003,
+    "target_volume": 2657.7631758400003,
     "pool_id": "RajgMbScQbqqrdJfR2rxfHJiTiY5b6bJ2tTXiF4aPxy",
     "liquidity_in_usd": 684392.4325901733
   },
@@ -1041,31 +1041,31 @@
     "ticker_id": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
     "base_currency": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
     "target_currency": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "last_price": 1.000175330735478,
-    "base_volume": 657.754041,
-    "target_volume": 657.799848,
+    "last_price": 1.0001768805519835,
+    "base_volume": 519.2524980000001,
+    "target_volume": 519.312349,
     "pool_id": "GokA1R67GqSavkd15zR62QD68Tuc5AEfvjssntVDEbM8",
-    "liquidity_in_usd": 33190.151330018634
+    "liquidity_in_usd": 33190.42540109834
   },
   {
     "ticker_id": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
     "base_currency": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
     "target_currency": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-    "last_price": 1.0000360713120346,
-    "base_volume": 133.13638300000002,
-    "target_volume": 133.15361799999994,
+    "last_price": 1.0000717993043753,
+    "base_volume": 131.008188,
+    "target_volume": 131.02710100000002,
     "pool_id": "vEnkoSUkpnbRrPgBz9DfcVxNz67zjwMYBZraAvDDNSf",
-    "liquidity_in_usd": 1807.4240182188692
+    "liquidity_in_usd": 1807.3480172265854
   },
   {
     "ticker_id": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
     "base_currency": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
     "target_currency": "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
-    "last_price": 1.0105036163965224,
-    "base_volume": 0.02433638,
-    "target_volume": 0.024592,
+    "last_price": 1.0096258027125478,
+    "base_volume": 4.07388362,
+    "target_volume": 4.11309802,
     "pool_id": "KZMu9QBEdL97EFgamLbN5DE1AoKBG4HdrKKJo4Vuon3",
-    "liquidity_in_usd": 12325.324762460841
+    "liquidity_in_usd": 12325.248533489423
   },
   {
     "ticker_id": "BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf/FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx",
@@ -1087,11 +1087,11 @@
     "ticker_id": "SL819j8K9FuFPL84UepVcFkEZqDUUvVzwDmJjCHySYj/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
     "base_currency": "SL819j8K9FuFPL84UepVcFkEZqDUUvVzwDmJjCHySYj",
     "target_currency": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
-    "last_price": 0.2004128440366972,
-    "base_volume": 0.000788,
-    "target_volume": 0.00015881,
+    "last_price": 0.1969954128440367,
+    "base_volume": 0.0014240000000000001,
+    "target_volume": 0.00028204,
     "pool_id": "wrmcMSHFi3sWpAEy4rGDvQb3ezh3PhXoV2xNjgLBkKU",
-    "liquidity_in_usd": 2849.023656373977
+    "liquidity_in_usd": 2765.64629763093
   },
   {
     "ticker_id": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
@@ -1127,17 +1127,17 @@
     "base_volume": 408.73153,
     "target_volume": 408.763211,
     "pool_id": "MATgk4zXLXtYkwBH678J1xZbRDZ45LicNzkRBHkxTuY",
-    "liquidity_in_usd": 11129.551261428245
+    "liquidity_in_usd": 11129.239630784406
   },
   {
     "ticker_id": "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
     "base_currency": "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1",
     "target_currency": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-    "last_price": 0.9999419984805539,
-    "base_volume": 10117.158569,
-    "target_volume": 10117.863396,
+    "last_price": 1.0008274127960382,
+    "base_volume": 6368.629654,
+    "target_volume": 6370.542176,
     "pool_id": "MATSnbbiTCv7Dc3trJrkrqjx7ckKdr6fwPoVwv9q3sD",
-    "liquidity_in_usd": 51854.851402795655
+    "liquidity_in_usd": 51845.8566432393
   },
   {
     "ticker_id": "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
@@ -1161,11 +1161,11 @@
     "ticker_id": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
     "base_currency": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
     "target_currency": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "last_price": 0.01489972307124959,
-    "base_volume": 2363.900489,
-    "target_volume": 35.233931,
+    "last_price": 0.014522382469645727,
+    "base_volume": 3520.9133559999996,
+    "target_volume": 51.856869,
     "pool_id": "KwnjUuZhTMTSGAaavkLEmSyfobY16JNH4poL9oeeEvE",
-    "liquidity_in_usd": 4592.576114390852
+    "liquidity_in_usd": 4468.273658353043
   },
   {
     "ticker_id": "HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D/BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi",
@@ -1215,31 +1215,31 @@
     "ticker_id": "83LGLCm7QKpYZbX8q4W2kYWbtt8NJBwbVwEepzkVnJ9y/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
     "base_currency": "83LGLCm7QKpYZbX8q4W2kYWbtt8NJBwbVwEepzkVnJ9y",
     "target_currency": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "last_price": 0.480528,
-    "base_volume": 0,
-    "target_volume": 0,
+    "last_price": 0.4433114227214759,
+    "base_volume": 313.326115,
+    "target_volume": 144.27471300000002,
     "pool_id": "NorjjEePhxfwLF4vZjUHCrVVKLzQjEEGQFd3wgjEJmh",
-    "liquidity_in_usd": 20473.098908858563
+    "liquidity_in_usd": 19020.80145108431
   },
   {
     "ticker_id": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij/zBTCug3er3tLyffELcvDNrKkCymbPWysGcWihESYfLg",
     "base_currency": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
     "target_currency": "zBTCug3er3tLyffELcvDNrKkCymbPWysGcWihESYfLg",
-    "last_price": 1.0020676786524787,
-    "base_volume": 0.274328,
-    "target_volume": 0.27495223,
+    "last_price": 1.0020839165189261,
+    "base_volume": 0.26968819,
+    "target_volume": 0.2702935,
     "pool_id": "6kiydhF6jyM6e9Lu6JNCcNpN66Yew6SyT2wD1SmtFMny",
-    "liquidity_in_usd": 122255.0450521461
+    "liquidity_in_usd": 121846.12601502537
   },
   {
     "ticker_id": "zBTCug3er3tLyffELcvDNrKkCymbPWysGcWihESYfLg/3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
     "base_currency": "zBTCug3er3tLyffELcvDNrKkCymbPWysGcWihESYfLg",
     "target_currency": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
-    "last_price": 0.9975701717637202,
-    "base_volume": 0.74513199,
-    "target_volume": 0.74319917,
+    "last_price": 0.9973311587219216,
+    "base_volume": 0.65428692,
+    "target_volume": 0.65257879,
     "pool_id": "8hTjRsNeKEAvgmwsXZGzJd3YKSPP4SFuD2uVXnFAV13N",
-    "liquidity_in_usd": 1214533.4477017776
+    "liquidity_in_usd": 1210559.5449131245
   },
   {
     "ticker_id": "So11111111111111111111111111111111111111112/So111DzVTTNpDq81EbeyKZMi4SkhU9yekqB8xmMpqzA",
