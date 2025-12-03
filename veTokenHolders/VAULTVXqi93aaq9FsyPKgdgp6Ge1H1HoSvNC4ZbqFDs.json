@@ -6527,6 +6527,20 @@
     "name": "Escrow",
     "data": {
       "locker": "FqEk173TNsqe2maPozsaZk4AvaqpV3FKynyA5s7V4aNq",
+      "owner": "BBbSduWP5PzrzhBvEbya78JYF9LY86LnBJzZkQ5qvJfs",
+      "bump": 255,
+      "tokens": "7mrLWgpKk66PQCHNfTs9MkuE6tnLkZi7ynawasa7ofY4",
+      "amount": "100752293",
+      "escrowStartedAt": "1764757417",
+      "escrowEndsAt": "1922437417",
+      "voteDelegate": "BBbSduWP5PzrzhBvEbya78JYF9LY86LnBJzZkQ5qvJfs"
+    },
+    "type": "account"
+  },
+  {
+    "name": "Escrow",
+    "data": {
+      "locker": "FqEk173TNsqe2maPozsaZk4AvaqpV3FKynyA5s7V4aNq",
       "owner": "CeM1WrS26XFXyA1dWoVAewG9gfd7WNRiK7bXvi2K83Ws",
       "bump": 252,
       "tokens": "G376BcEKK2Tf1NZWAgnNe9hMMUNEbFZoE4vxmrP4NZff",
