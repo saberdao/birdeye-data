@@ -4514,9 +4514,9 @@
       "owner": "2gD2trDSDnJFRve4ZcvPVAic55SWt6CYLbtHvEBzLkoQ",
       "bump": 253,
       "tokens": "B4tWBVVwe1uwVdQHH8Npa4uBsN9GFdYe5v3XTUBLCdqZ",
-      "amount": "761145420",
-      "escrowStartedAt": "1755279454",
-      "escrowEndsAt": "1786815454",
+      "amount": "797771422",
+      "escrowStartedAt": "1766704140",
+      "escrowEndsAt": "1817919461",
       "voteDelegate": "2gD2trDSDnJFRve4ZcvPVAic55SWt6CYLbtHvEBzLkoQ"
     },
     "type": "account"
@@ -14188,9 +14188,9 @@
       "owner": "2oukRDVjBBiatQoPT9pKK7iaGn5fj5kLS9Sc8jRaPBf8",
       "bump": 255,
       "tokens": "HwKQEFUbUm48Zt2YhSHak8juCewgKsgzJiNiKZ3QNMV1",
-      "amount": "1467125120",
-      "escrowStartedAt": "1757242844",
-      "escrowEndsAt": "1788778844",
+      "amount": "1505868473",
+      "escrowStartedAt": "1766705378",
+      "escrowEndsAt": "1804330847",
       "voteDelegate": "2oukRDVjBBiatQoPT9pKK7iaGn5fj5kLS9Sc8jRaPBf8"
     },
     "type": "account"
@@ -15504,9 +15504,9 @@
       "owner": "52xnRaaGN61G6mGQCc6LBdgPPchob9DcnWQmURXJd3q",
       "bump": 255,
       "tokens": "2CWsngsLNduFJnsEpS4kAVydbvzBPZ9PSJPCaMN88ATR",
-      "amount": "40150438883",
-      "escrowStartedAt": "1753460732",
-      "escrowEndsAt": "1784996732",
+      "amount": "41029632323",
+      "escrowStartedAt": "1766688544",
+      "escrowEndsAt": "1800548742",
       "voteDelegate": "52xnRaaGN61G6mGQCc6LBdgPPchob9DcnWQmURXJd3q"
     },
     "type": "account"
@@ -21150,20 +21150,6 @@
       "escrowStartedAt": "1753344846",
       "escrowEndsAt": "1784880846",
       "voteDelegate": "3nFo6QdGLSWWsZyVjWoeLd6cWjtyQWpjaEYpX9uDaaHa"
-    },
-    "type": "account"
-  },
-  {
-    "name": "Escrow",
-    "data": {
-      "locker": "FqEk173TNsqe2maPozsaZk4AvaqpV3FKynyA5s7V4aNq",
-      "owner": "GTeY34um88eHadkm5seDswrpbFnZdQry6oq6hRQ4mtzY",
-      "bump": 255,
-      "tokens": "9Y9sySWsWXxGZcyz7W4Ksyqk9aHUyGKxm2N969eMzto3",
-      "amount": "2582162346",
-      "escrowStartedAt": "1756729262",
-      "escrowEndsAt": "1762196429",
-      "voteDelegate": "GTeY34um88eHadkm5seDswrpbFnZdQry6oq6hRQ4mtzY"
     },
     "type": "account"
   },
